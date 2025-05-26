@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎯 Slingshot Birds 3D
 
 **A 3D game inspired by Angry Birds, developed as a Final Year Project using Unity and Blender.**
@@ -30,13 +29,8 @@ Slingshot Birds 3D is a fun and engaging mobile game where players use a slingsh
 - Android (Unity Build)
 - Windows (Development Platform)
 
-## 📸 Screenshots
+<!-- Game poster - highlight it bigger -->
+<p float="left">
+  <img src="screenshots/2.jpg" width="48%" />
+</p>
 
-*Add 3–4 game screenshots here if possible*
-
-# Slingshot Birds 3D
-This is the combined README content from both local and remote versions.
-=======
-# Assets_2022
-only assets
->>>>>>> e22a95d (Initial commit)
